@@ -1,0 +1,15 @@
+{
+  "cssImports": {
+    "/Users/guilhermebarbosa/Projects/tistracker/app/layout.tsx": [
+      "/Users/guilhermebarbosa/Projects/tistracker/app/styles/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/guilhermebarbosa/Projects/tistracker/app/page": [
+      "/Users/guilhermebarbosa/Projects/tistracker/app/styles/globals.css"
+    ],
+    "/Users/guilhermebarbosa/Projects/tistracker/app/dashboard/page": [
+      "/Users/guilhermebarbosa/Projects/tistracker/app/styles/globals.css"
+    ]
+  }
+}
